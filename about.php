@@ -102,7 +102,7 @@ if(isset($_COOKIE['user_id'])){
          <div class="user">
             <img src="images/pic-2.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Anmol Sethi</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -119,7 +119,7 @@ if(isset($_COOKIE['user_id'])){
          <div class="user">
             <img src="images/pic-3.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Rohit Gupta</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -137,7 +137,7 @@ if(isset($_COOKIE['user_id'])){
          <div class="user">
             <img src="images/pic-4.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Abhay</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -154,7 +154,7 @@ if(isset($_COOKIE['user_id'])){
          <div class="user">
             <img src="images/pic-5.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Bhupender</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -171,7 +171,7 @@ if(isset($_COOKIE['user_id'])){
          <div class="user">
             <img src="images/pic-6.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Mohit</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -188,7 +188,7 @@ if(isset($_COOKIE['user_id'])){
          <div class="user">
             <img src="images/pic-7.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Rishikesh</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
