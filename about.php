@@ -40,8 +40,9 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="content">
-         <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque nobis distinctio, nisi consequatur ad sequi, rem odit fugiat assumenda eligendi iure aut sunt ratione, tempore porro expedita quisquam.</p>
+      <h3>Why Choose Us?</h3>
+      <p>We are dedicated to helping students make informed decisions about their education. With comprehensive resources, easy access to university student insights, and personalized guidance, we ensure you have all the support you need to take the next step toward a brighter future. Join us to explore, connect, and succeed!</p>
+
          <a href="courses.html" class="inline-btn">our courses</a>
       </div>
 
@@ -96,11 +97,12 @@ if(isset($_COOKIE['user_id'])){
    <div class="box-container">
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+      <p>"This platform is a game-changer for students! It made my admission process so much smoother by connecting me with seniors who answered all my questions about the university. I highly recommend it to anyone looking for guidance and real insights into campus life!"</p>
+
          <div class="user">
             <img src="images/pic-2.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Anmol Sethi</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -113,11 +115,11 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+      <p>"This website is fantastic! I found all the information I needed about my university, and the option to connect with seniors was super helpful. It gave me the confidence to move forward with my admission!"</p>
          <div class="user">
             <img src="images/pic-3.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Rohit Gupta</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -130,11 +132,12 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+      <p>"The platform is very user-friendly and offers so much guidance. Booking a time slot to talk with current students made a huge difference in understanding the college environment."</p>
+
          <div class="user">
             <img src="images/pic-4.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Abhay</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -147,11 +150,11 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+      <p>"I was nervous about choosing the right university, but this site provided detailed insights and real student experiences that helped me make the best decision. Highly recommend it!"</p>
          <div class="user">
             <img src="images/pic-5.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Bhupender</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -164,11 +167,11 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+      <p>"As a new student, I appreciated how easy it was to find helpful information here. The ability to chat with seniors made me feel welcomed and prepared for my college journey."</p>
          <div class="user">
             <img src="images/pic-6.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Mohit</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -181,11 +184,11 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+      <p>"This is such a unique and valuable resource! It’s not just about numbers and rankings; the chance to ask questions directly from students gave me real clarity about my options."</p>
          <div class="user">
             <img src="images/pic-7.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Rishikesh</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>

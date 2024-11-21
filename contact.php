@@ -79,22 +79,22 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-phone"></i>
          <h3>phone number</h3>
-         <a href="tel:1234567890">123-456-7890</a>
-         <a href="tel:1112223333">111-222-3333</a>
+         <a href="tel:1234567890">86xxxxxx97</a>
+         <a href="tel:1112223333">96xxxxxx56</a>
       </div>
 
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
          <a href="mailto:pawan937281@gmail.com">pawan937281@gmail.com</a>
-         <a href="mailto:anubhav@gmail.com">anubhav@gmail.com</a>
-         <a href="mailto:rohit@gmail.com">rohit@gmail.com</a>
+         <a href="mailto:anubhav@gmail.com">shuklaanubhav617@gmail.com</a>
+         <a href="mailto:rohit@gmail.com">team.rsg17@gmail.com</a>
       </div>
 
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>office address</h3>
-         <a href="#">flat no. 1, a-1 building, Phagwara, India, india - 144401</a>
+         <a href="#">Green Valley, Law Gate, Phagwara, India - 144401</a>
       </div>
 
 
